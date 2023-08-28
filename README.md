@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-But i like to do more change
+But i like to do more things
+
+I added more changes now
 
 <!--
 **imsaranathgmail/imsaranathgmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
