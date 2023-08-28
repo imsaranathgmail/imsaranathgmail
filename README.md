@@ -2,7 +2,7 @@
 
 But i like to do more things
 
-I added more changes now
+I added new changes now
 
 so im in hungry now lets eat
 
